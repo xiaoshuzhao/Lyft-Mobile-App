@@ -1,2 +1,2 @@
-# Lyft-Mobile-App-
+# Lyft-Mobile-App
 Certification
