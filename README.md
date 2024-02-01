@@ -1,2 +1,3 @@
 # Lyft-Mobile-App
-Certification
+
+![Certification](lyft_certification.png)
